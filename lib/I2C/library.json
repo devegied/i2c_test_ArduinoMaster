@@ -2,7 +2,6 @@
   "name": "I2C-Master-Library",
   "keywords": "i2cmasterlib, i2c",
   "description": "The I2C Master library is an alternative library to Arduino's Wire library.",
-  "include": "Arduino/I2C-Master-Library",
   "repository":
   {
     "type": "git",
